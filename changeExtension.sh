@@ -1,9 +1,9 @@
 #########################
-#inserire in orifinalFormat il codice del formato di origin e in finalFormat quello desideratoe
+# inserire in originalFormat il codice del formato di origine e in finalFormat quello desiderato
 originalFormat=""
 finalFormat=""
 
-#inserire in path il path della cartella nel quale si trovano i file da convertire
+# inserire in path il path della cartella nel quale si trovano i file da convertire
 path=
 ##########################
 
